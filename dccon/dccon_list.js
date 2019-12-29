@@ -36,8 +36,8 @@ dcConsData = [
 	
 	
 	//김두한//
-	{name:"오케이땡큐.gif",		keywords:["오케이땡큐"],	tags:["김두한","야인시대"]},
-    {name:"4딸라,png",		keywords:["4딸라"],	tags:["김두한","야인시대"]},
+	{name:"오케이땡큐.png",		keywords:["오케이땡큐"],	tags:["김두한","야인시대"]},
+    {name:"4딸라.png",		keywords:["4딸라"],	tags:["김두한","야인시대"]},
 	
 	
 	
