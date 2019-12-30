@@ -39,8 +39,12 @@ dcConsData = [
 	{name:"오케이땡큐.png",		keywords:["오케이땡큐"],	tags:["김두한","야인시대"]},
     {name:"4딸라.png",		keywords:["4딸라"],	tags:["김두한","야인시대"]},
 	
-	
-	
+		
+	////////////리그 오브 레전드/////////////
+	{name:"꿀벌눈물.jpg",		    keywords:["꿀벌눈물"],	tags:["롤"]},
+	{name:"꿀벌화남.jpg",		    keywords:["꿀벌화남"],	tags:["롤"]},
+	{name:"꿀벌행복.png",		    keywords:["꿀벌행복"],	tags:["롤"]},
+	{name:"카이사.jpg",		    keywords:["카이사"],	tags:["롤"]},
 	
 	////////////롤코타/////////////
 	{name:"멀미.gif",		    keywords:["멀미"],	tags:["롤코타"]},
@@ -57,6 +61,7 @@ dcConsData = [
 	{name:"불행2.gif",		keywords:["불행2"],	tags:["롤코타"]},
     {name:"안내소.png",		keywords:["안내소"],	tags:["롤코타"]},	
 	{name:"하트라인.gif",		keywords:["하트라인"],	tags:["롤코타"]},	
+	
 	//호랑이/////////
 	
 	{name:"호랑이.gif",	    keywords:["호랑이"],	tags:["호랑이"]},
