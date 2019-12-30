@@ -56,7 +56,7 @@ dcConsData = [
 	{name:"불행.gif",	     	keywords:["불행"],	tags:["롤코타"]},
 	{name:"불행2.gif",		keywords:["불행2"],	tags:["롤코타"]},
     {name:"안내소.png",		keywords:["안내소"],	tags:["롤코타"]},	
-	{name:"하트라인.png",		keywords:["하트라인"],	tags:["롤코타"]},	
+	{name:"하트라인.gif",		keywords:["하트라인"],	tags:["롤코타"]},	
 	//호랑이/////////
 	
 	{name:"호랑이.gif",	    keywords:["호랑이"],	tags:["호랑이"]},
