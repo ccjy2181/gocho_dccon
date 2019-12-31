@@ -148,8 +148,8 @@ dcConsData = [
 	{name:"에디와우.gif",		keywords:["에디와우"],	tags:["와우"]},
     {name:"주인님.png",		keywords:["주인님"],	tags:["자살"]},
     {name:"겉바속촉.gif", 	    keywords:["겉바속촉"],	tags:["와우", "헬스크림"]},
-	{name:"흠.png", 	  	    keywords:["흠"],   	tags:["페페"]}
-	{name:"~버그.gif", 	  	keywords:["버그"],   	tags:["버그"]}
+	{name:"흠.png", 	  	    keywords:["흠"],   	tags:["페페"]},
+	{name:"~버그.gif", 	  	keywords:["버그"],   	tags:["버그"]},
     
 	
 	
@@ -248,7 +248,7 @@ dcConsData = [
 	{name:"플라잉.png",		keywords:["플라잉"],		tags:["롤코타"]},	
 	{name:"플라잉턴.png",		keywords:["플라잉턴"],		tags:["롤코타"]},	
 	{name:"플로어리스.png",		keywords:["플로어리스"],	tags:["롤코타"]},	
-	{name:"후룸라이드.png",		keywords:["후룸라이드"],	tags:["롤코타"]},	
+	{name:"후룸라이드.png",		keywords:["후룸라이드"],	tags:["롤코타"]}	
 	
 	
 	
