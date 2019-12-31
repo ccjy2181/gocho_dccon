@@ -46,7 +46,7 @@ dcConsData = [
 	{name:"꿀벌행복.png",		    keywords:["꿀벌행복"],	tags:["롤"]},
 	{name:"카이사.jpg",		    keywords:["카이사"],	tags:["롤"]},
 	{name:"가렌행복.png",		    keywords:["가렌행복"],	tags:["롤"]},
-	{name:"가렌박력.jpg",		    keywords:["가렌박력"],	tags:["롤"]},
+	{name:"가렌박력.gif",		    keywords:["가렌박력"],	tags:["롤"]},
 	{name:"티모.png",		   		 keywords:["티모"],	tags:["롤"]},
 	
 	
