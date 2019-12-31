@@ -1,6 +1,21 @@
 dcConsData = [
  
-  	///김정은//
+  	
+	
+	
+	
+	
+	
+	//고초콘//
+	
+	{name:"고초분노.png",   	keywords:["고초분노"],	tags:["고초콘"]},
+	{name:"고초분노2.gif",   	keywords:["고초분노2"],	tags:["고초콘"]},
+	{name:"고초생각.gif",   	keywords:["고초안녕"],	tags:["고초콘"]},
+	{name:"고초어떡.gif",   	keywords:["고초어떡"],	tags:["고초콘"]},
+	
+	
+	
+	///김정은//
 	{name:"우리핵박수.gif",		keywords:["우리핵박수"],	tags:["북한", "김정은"]},
 	{name:"우리핵박수2.gif",	keywords:["우리핵박수2"],	tags:["북한", "김정은"]},
 	{name:"우리핵박수3.gif",	keywords:["우리핵박수3"],	tags:["북한", "김정은"]},
@@ -9,6 +24,7 @@ dcConsData = [
 	{name:"우리핵아닌데.gif",	keywords:["우리핵아닌데"],	tags:["북한", "김정은"]},
 	{name:"우리핵안녕.gif",	    keywords:["우리핵안녕"],	tags:["북한", "김정은"]},
 	{name:"우리핵투정.gif",   	keywords:["우리핵투정"],	tags:["북한", "김정은"]},
+	
 
 	
 	
@@ -44,10 +60,98 @@ dcConsData = [
 	{name:"꿀벌눈물.jpg",		    keywords:["꿀벌눈물"],	tags:["롤"]},
 	{name:"꿀벌화남.jpg",		    keywords:["꿀벌화남"],	tags:["롤"]},
 	{name:"꿀벌행복.png",		    keywords:["꿀벌행복"],	tags:["롤"]},
-	{name:"카이사.jpg",		    keywords:["카이사"],	tags:["롤"]},
+	{name:"카이사.png",		    keywords:["카이사"],	tags:["롤"]},
 	{name:"가렌행복.png",		    keywords:["가렌행복"],	tags:["롤"]},
 	{name:"가렌박력.gif",		    keywords:["가렌박력"],	tags:["롤"]},
-	{name:"티모.png",		   		 keywords:["티모"],	tags:["롤"]},
+	{name:"티모.png",		   	    keywords:["티모"],	tags:["롤"]},
+	
+	
+	
+	
+	////냥이콘/////////
+	{name:"냥이눈물.gif",		    keywords:["냥이눈물"],	tags:["냥이"]},
+	{name:"냥이눈물2.gif",		    keywords:["냥이눈물2"],	tags:["냥이"]},
+	{name:"냥이돼지.gif",		    keywords:["냥이돼지"],	tags:["냥이"]},
+	{name:"냥이억울.gif",		    keywords:["냥이억울"],	tags:["냥이"]},
+	
+    ////댕댕콘/////////
+	{name:"댕댕찡긋.gif",		    keywords:["댕댕찡긋"],	tags:["댕댕콘"]},
+	{name:"댕댕혼란.gif",		    keywords:["댕댕혼란"],	tags:["댕댕콘"]},
+	{name:"댕댕확대.gif",		    keywords:["댕댕확대"],	tags:["댕댕콘"]},
+	
+	
+	
+	//호랑이/////////
+	
+	{name:"호랑이.gif",	    keywords:["호랑이"],	tags:["호랑이"]},
+	{name:"호랑이2.gif",	    keywords:["호랑이2"],	tags:["호랑이"]},
+		
+	
+	
+	
+	////당당콘////
+	
+	{name:"문풍당당.gif",		keywords:["문풍당당"],	tags:["당당"]},
+	{name:"문풍당당2.gif",		keywords:["문풍당당2"],	tags:["당당"]},
+	{name:"이풍당당.gif",		keywords:["이풍당당"],	tags:["당당"]},
+	{name:"이풍당당2.gif",		keywords:["이풍당당2"],	tags:["당당"]},
+
+	//볼트보이//
+	{name:"볼트게이.png",		keywords:["볼트게이"],	tags:["볼트보이"]},
+	{name:"볼트딸딸.png",		keywords:["볼트딸딸"],	tags:["볼트보이"]},
+	{name:"볼트천사.png",		keywords:["볼트천사"],	tags:["볼트보이"]},
+	
+	
+	////편안콘//
+	{name:"불편.png",		    keywords:["불편"],	tags:["불편"]},
+	{name:"편안.png",		    keywords:["편안"],	tags:["편안"]},
+	
+	
+	//퓨디파이//
+	{name:"어케이겼노.gif",		keywords:["어케이겼노"],	tags:["퓨디파이"]},
+	{name:"어케했노.gif",		keywords:["어케했노"],	    tags:["퓨디파이"]},
+	
+	
+	
+	//게이//
+	{name:"아아.png",		    keywords:["아아"],	tags:["게이"]},
+	{name:"마치.png",		    keywords:["마치"],	tags:["게이"]},
+	
+	
+
+	
+	//국뽕//
+    {name:"펄럭.gif",			keywords:["펄럭"],	tags:["국뽕"]},
+	{name:"펄럭2.gif",   	    keywords:["펄럭2"],	tags:["국뽕"]},
+	
+	
+	
+	
+	//페페//
+	{name:"페페발암.png",    keywords:["페페발암"],	tags:["페페"]},
+	{name:"페페흐음.png",    keywords:["페페흐음"],	tags:["페페"]},
+    {name:"페페기대.png",    keywords:["페페기대"],	tags:["페페"]},	
+	{name:"페페놀람.png",    keywords:["페페놀람"],	tags:["페페"]},	
+	{name:"페페따봉.png",    keywords:["페페따봉"],	tags:["페페"]},	
+	{name:"페페물음표.png",    keywords:["페페물음표"],	tags:["페페"]},	
+	{name:"페페우울.png",    keywords:["페페우울"],	tags:["페페"]},	
+	{name:"페페초딩.png",    keywords:["페페초딩"],	tags:["페페"]},	
+	{name:"페페헉.png",    keywords:["페페헉"],	tags:["페페"]},	
+	
+	
+	
+
+	
+	
+	
+	//기타 잡짤////
+	{name:"에디와우.gif",		keywords:["에디와우"],	tags:["와우"]},
+    {name:"주인님.png",		keywords:["주인님"],	tags:["자살"]},
+    {name:"겉바속촉.gif", 	    keywords:["겉바속촉"],	tags:["와우", "헬스크림"]},
+	{name:"흠.png", 	  	    keywords:["흠"],   	tags:["페페"]}
+	{name:"~버그.gif", 	  	keywords:["버그"],   	tags:["버그"]}
+    
+	
 	
 	
 	
@@ -147,63 +251,6 @@ dcConsData = [
 	{name:"후룸라이드.png",		keywords:["후룸라이드"],	tags:["롤코타"]},	
 	
 	
-	//호랑이/////////
-	
-	{name:"호랑이.gif",	    keywords:["호랑이"],	tags:["호랑이"]},
-	{name:"호랑이2.gif",	    keywords:["호랑이2"],	tags:["호랑이"]},
-		
-	
-	
-	
-	////당당콘////
-	
-	{name:"문풍당당.gif",		keywords:["문풍당당"],	tags:["당당"]},
-	{name:"문풍당당2.gif",		keywords:["문풍당당2"],	tags:["당당"]},
-	{name:"이풍당당.gif",		keywords:["이풍당당"],	tags:["당당"]},
-	{name:"이풍당당2.gif",		keywords:["이풍당당2"],	tags:["당당"]},
-
-	//볼트보이//
-	{name:"볼트게이.png",		keywords:["볼트게이"],	tags:["볼트보이"]},
-	{name:"볼트딸딸.png",		keywords:["볼트딸딸"],	tags:["볼트보이"]},
-	{name:"볼트천사.png",		keywords:["볼트천사"],	tags:["볼트보이"]},
-	
-	
-	////편안콘//
-	{name:"불편.png",		    keywords:["불편"],	tags:["불편"]},
-	{name:"편안.png",		    keywords:["편안"],	tags:["편안"]},
-	
-	
-	//퓨디파이//
-	{name:"어케이겼노.gif",		keywords:["어케이겼노"],	tags:["퓨디파이"]},
-	{name:"어케했노.gif",		keywords:["어케했노"],	    tags:["퓨디파이"]},
-	
-	
-	
-	//게이//
-	{name:"아아.png",		    keywords:["아아"],	tags:["게이"]},
-	{name:"마치.png",		    keywords:["마치"],	tags:["게이"]},
-	
-	
-
-	
-	//국뽕//
-    {name:"펄럭.gif",			keywords:["펄럭"],	tags:["국뽕"]},
-	{name:"펄럭2.gif",   	    keywords:["펄럭2"],	tags:["국뽕"]},
-	
-	
-	
-	
-	//페페//
-	{name:"페페발암.png",    keywords:["페페발암"],	tags:["페페"]},
-	{name:"페페흐음.png",    keywords:["페페흐음"],	tags:["페페"]},
-	
-	
-		//잡짤////
-	{name:"에디와우.gif",		keywords:["에디와우"],	tags:["와우"]},
-    {name:"주인님.png",		keywords:["주인님"],	tags:["자살"]},
-    {name:"겉바속촉.gif", 	    keywords:["겉바속촉"],	tags:["와우", "헬스크림"]},
-	{name:"흠.png", 	  	    keywords:["흠"],   	tags:["흠"]}
-    
 	
 	
 
