@@ -7,6 +7,18 @@
 	{"name":"고초안녕.gif",		"keywords":["고초안녕"],	"tags":["고초콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초안녕.gif"},
 	{"name":"고초어떡.gif",		"keywords":["고초어떡"],	"tags":["고초콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초어떡.gif"},
 	  
+	{"name":"고초덩실.gif",   	"keywords":["고초덩실"],		"tags":["고초콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초덩실.gif"},
+	{"name":"고초멍.gif",   	"keywords":["고초멍"],		    "tags":["고초콘"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초멍.gif"},
+	{"name":"고초샷건.gif",   	"keywords":["고초샷건"],		"tags":["고초콘"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초샷건.gif"},
+	{"name":"고초안녕2.gif",   "keywords":["고초안녕2"],   	"tags":["고초콘"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초안녕2.gif"},
+	{"name":"고초안녕3.gif",   "keywords":["고초안녕3"],	    "tags":["고초콘"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초안녕3.gif"},
+	{"name":"고초잘한다.gif",   "keywords":["고초잘한다"],	    "tags":["고초콘"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초잘한다.gif"},
+	{"name":"고초기타.gif",   	"keywords":["고초기타"], 	    "tags":["고초콘"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초기타.gif"},
+	
+	
+	
+	
+	
 	
 	
 	
@@ -49,7 +61,20 @@
 	{"name":"오케이땡큐.png",		"keywords":["오케이땡큐"],	"tags":["김두한","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/오케이땡큐.png"},
     {"name":"4딸라.png",			"keywords":["4딸라"],		"tags":["김두한","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/4딸라.png"},
 	
-	
+	{"name":"심영1.gif",		"keywords":["심영1"],		"tags":["심영","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/심영1.gif"},
+	{"name":"심영2.gif",		"keywords":["심영2"],		"tags":["심영","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/심영2.gif"},
+	{"name":"심영3.gif",		"keywords":["심영3"],		"tags":["심영","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/심영3.gif"},
+	{"name":"심영4.gif",		"keywords":["심영4"],		"tags":["심영","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/심영4.gif"},
+	{"name":"심영공포.gif",	"keywords":["심영공포"],	"tags":["심영","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/심영공포.gif"},
+	{"name":"심영관찰.gif",	"keywords":["심영관찰"],	"tags":["심영","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/심영관찰.gif"},
+	{"name":"심영관찰2.gif",	"keywords":["심영관찰2"],	"tags":["심영","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/심영관찰2.gif"},
+	{"name":"심영기상.gif",	"keywords":["심영기상"],	"tags":["심영","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/심영기상.gif"},
+	{"name":"심영어디.gif",	"keywords":["심영어디"],	"tags":["심영","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/심영어디.gif"},
+	{"name":"심영의사.gif",	"keywords":["심영의사"],	"tags":["심영","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/심영의사.gif"},
+	{"name":"심영의사2.gif",	"keywords":["심영의사2"],	"tags":["심영","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/심영의사2.gif"},
+	{"name":"환호.gif",		"keywords":["환호"],		"tags":["환호","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/환호.gif"},
+	{"name":"환호2.gif",	    "keywords":["환호2"],		"tags":["환호","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/환호2.gif"},
+	{"name":"환호3.gif",	    "keywords":["환호3"],		"tags":["환호","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/환호3.gif"},
 	
 	
 	
@@ -124,15 +149,62 @@
 	{"name":"페페물음표.png",    "keywords":["페페물음표"],	"tags":["페페"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/페페물음표.png"},
 	{"name":"페페우울.png",    "keywords":["페페우울"],	"tags":["페페"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/페페우울.png"},
 	{"name":"페페초딩.png",    "keywords":["페페초딩"],	"tags":["페페"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/페페초딩.png"},
-	{"name":"페페헉.png",    "keywords":["페페헉"],	"tags":["페페"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/페페헉.png"},
+	{"name":"페페헉.png",     "keywords":["페페헉"],  	"tags":["페페"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/페페헉.png"},
+	{"name":"페페주먹.png",    "keywords":["페페주먹"],	"tags":["페페"],	"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/페페주먹.png"},
+	
+	
+	
+	
+	{"name":"원순1.png",	    "keywords":["원순1"],	"tags":["박원순"],	"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/원순1.png"},
+	{"name":"원순2.png",	    "keywords":["원순2"],	"tags":["박원순"],	"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/원순2.png"},
+	{"name":"원순3.png",	    "keywords":["원순3"],	"tags":["박원순"],	"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/원순3.png"},
+	{"name":"원순4.png",	    "keywords":["원순4"],	"tags":["박원순"],	"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/원순4.png"},
+	{"name":"원순5.png",	    "keywords":["원순5"],	"tags":["박원순"],	"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/원순5.png"},
+	{"name":"원순6.png",	    "keywords":["원순6"],	"tags":["박원순"],	"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/원순6.png"},
+	{"name":"원순7.png",	    "keywords":["원순7"],	"tags":["박원순"],	"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/원순7.png"},
+	
+	
+	
+	
+	
+	{"name":"뚱이무한.gif",     "keywords":["뚱이무한"],		"tags":["스폰지밥"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/뚱이무한.gif"},	
+	{"name":"뚱이사랑.gif",     "keywords":["뚱이사랑"],		"tags":["스폰지밥"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/뚱이사랑.gif"},	
+	{"name":"뚱이휴식.gif",     "keywords":["뚱이휴식"],		"tags":["스폰지밥"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/뚱이휴식.gif"},	
+	{"name":"스폰덜덜.gif",     "keywords":["스폰덜덜"],		"tags":["스폰지밥"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/스폰덜덜.gif"},	
+	{"name":"스폰만세.gif",     "keywords":["스폰만세"],		"tags":["스폰지밥"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/스폰만세.gif"},	
+	{"name":"스폰웃음.gif",     "keywords":["스폰웃음"],		"tags":["스폰지밥"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/스폰웃음.gif"},	
+	{"name":"스폰헉헉.gif",     "keywords":["스폰헉헉"],		"tags":["스폰지밥"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/스폰헉헉.gif"},	
+	{"name":"스폰현피.gif",     "keywords":["스폰현피"],		"tags":["스폰지밥"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/스폰현피.gif"},	
+	{"name":"스폰활활.gif",     "keywords":["스폰활할"],		"tags":["스폰지밥"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/스폰활활.gif"},	
+	{"name":"스폰사랑.gif",     "keywords":["스폰사랑"],		"tags":["스폰지밥"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/스폰사랑.gif"},	
+	{"name":"징징분노.gif",     "keywords":["징징분노"],		"tags":["스폰지밥"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/징징분노.gif"},	
+	{"name":"징징이.gif",       "keywords":["징징이"],		"tags":["스폰지밥"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/징징이.gif"},	
+	{"name":"징징한숨.gif",     "keywords":["징징한숨"],		"tags":["스폰지밥"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/징징한숨.gif"},	
+	
+	
+	{"name":"타짜갈때.gif",     "keywords":["타짜갈때"],		"tags":["타짜"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/타짜갈때.gif"},	
+	{"name":"타짜따라란.gif",    "keywords":["타짜따라란"],	"tags":["타짜"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/타짜따라단.gif"},	
+	{"name":"타짜묻고.gif",     "keywords":["타짜묻고"],		"tags":["타짜"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/타짜묻고.gif"},	
+	{"name":"타짜왜이러.gif",    "keywords":["타짜왜이러"],	"tags":["타짜"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/타짜왜이러.gif"},	
+	{"name":"타짜충격.gif",     "keywords":["타짜충격"],		"tags":["타짜"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/타짜충격.gif"},	
+		
+	
+	
 	
 	
 	
 	{"name":"에디와우.gif",		"keywords":["에디와우"],	"tags":["와우"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/에디와우.gif"},
-    {"name":"주인님.png",			"keywords":["주인님"],		"tags":["자살"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/주인님.png"},
+    {"name":"주인님.png",		"keywords":["주인님"],	"tags":["자살"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/주인님.png"},
     {"name":"겉바속촉.gif", 	    "keywords":["겉바속촉"],	"tags":["와우",  "헬스크림"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/겉바속촉.gif"},
-	{"name":"흠.png", 	   	    "keywords":["흠"],		"tags":["흠"],  "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/흠.png"},
+	{"name":"흠.png", 	   	    "keywords":["흠"],		"tags":["흠"],    "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/흠.png"},
 	{"name":"버그.png", 	   	    "keywords":["버그"],		"tags":["버그"],  "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/버그.png"},
+	{"name":"민트초코.jpg", 	  	"keywords":["민트초코"], "tags":["민트초코"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/민트초코.png"},
+	
+	
+	{"name":"참피런.gif",     "keywords":["참피런"],		"tags":["참피"],	 "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/참피런.gif"},
+	{"name":"참피런2.gif",    "keywords":["참피런2"],		"tags":["참피"],	 "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/참피런2.gif"},
+	{"name":"참피엉덩.gif",   "keywords":["참피엉덩"],	"tags":["참피"],	 "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/참피엉덩.gif"},
+	{"name":"참피그만.gif",   "keywords":["참피그만"],	"tags":["참피"],	 "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/참피그만.gif"},
 	
     
 	

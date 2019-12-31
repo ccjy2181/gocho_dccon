@@ -9,20 +9,29 @@ dcConsData = [
 	//고초콘//
 	
 	{name:"고초분노.png",   	keywords:["고초분노"],		tags:["고초콘"]},
-	{name:"고초분노2.gif",   	keywords:["고초분노2"],	tags:["고초콘"]},
+	{name:"고초분노2.gif",   keywords:["고초분노2"],		tags:["고초콘"]},
 	{name:"고초생각.gif",   	keywords:["고초생각"],		tags:["고초콘"]},
 	{name:"고초안녕.gif",   	keywords:["고초안녕"],		tags:["고초콘"]},
 	{name:"고초어떡.gif",   	keywords:["고초어떡"],		tags:["고초콘"]},
+	
+	{name:"고초덩실.gif",   	keywords:["고초덩실"],		tags:["고초콘"]},
+	{name:"고초멍.gif",   	keywords:["고초멍"],		tags:["고초콘"]},
+	{name:"고초샷건.gif",   	keywords:["고초샷건"],		tags:["고초콘"]},
+	{name:"고초안녕2.gif",   keywords:["고초안녕2"],		tags:["고초콘"]},
+	{name:"고초안녕3.gif",   keywords:["고초안녕3"],		tags:["고초콘"]},
+	{name:"고초잘한다.gif",  	keywords:["고초잘한다"],		tags:["고초콘"]},
+	{name:"고초기타.gif",   	keywords:["고초기타"], 		tags:["고초콘"]},
+		
 	
 	
 	
 	///김정은//
 	{name:"우리핵박수.gif",		keywords:["우리핵박수"],	tags:["북한", "김정은"]},
-	{name:"우리핵박수2.gif",	keywords:["우리핵박수2"],	tags:["북한", "김정은"]},
-	{name:"우리핵박수3.gif",	keywords:["우리핵박수3"],	tags:["북한", "김정은"]},
+	{name:"우리핵박수2.gif",		keywords:["우리핵박수2"],	tags:["북한", "김정은"]},
+	{name:"우리핵박수3.gif",		keywords:["우리핵박수3"],	tags:["북한", "김정은"]},
 	{name:"우리핵빵야.gif",		keywords:["우리핵빵야"],	tags:["북한", "김정은"]},
-	{name:"우리핵쌍안경.gif",	keywords:["우리핵쌍안경"],	tags:["북한", "김정은"]},
-	{name:"우리핵아닌데.gif",	keywords:["우리핵아닌데"],	tags:["북한", "김정은"]},
+	{name:"우리핵쌍안경.gif",		keywords:["우리핵쌍안경"],	tags:["북한", "김정은"]},
+	{name:"우리핵아닌데.gif",		keywords:["우리핵아닌데"],	tags:["북한", "김정은"]},
 	{name:"우리핵안녕.gif",	    keywords:["우리핵안녕"],	tags:["북한", "김정은"]},
 	{name:"우리핵투정.gif",   	keywords:["우리핵투정"],	tags:["북한", "김정은"]},
 	
@@ -53,25 +62,43 @@ dcConsData = [
 	
 	
 	//김두한//
-	{name:"오케이땡큐.png",		keywords:["오케이땡큐"],	tags:["김두한","야인시대"]},
+	{name:"오케이땡큐.png",	keywords:["오케이땡큐"],	tags:["김두한","야인시대"]},
     {name:"4딸라.png",		keywords:["4딸라"],		tags:["김두한","야인시대"]},
 	
-		
+	{name:"심영1.gif",		keywords:["심영1"],		tags:["심영","야인시대"]},
+	{name:"심영2.gif",		keywords:["심영2"],		tags:["심영","야인시대"]},
+	{name:"심영3.gif",		keywords:["심영3"],		tags:["심영","야인시대"]},
+	{name:"심영4.gif",		keywords:["심영4"],		tags:["심영","야인시대"]},
+	{name:"심영공포.gif",	keywords:["심영공포"],	tags:["심영","야인시대"]},
+	{name:"심영관찰.gif",	keywords:["심영관찰"],	tags:["심영","야인시대"]},
+	{name:"심영관찰2.gif",	keywords:["심영관찰2"],	tags:["심영","야인시대"]},
+	{name:"심영기상.gif",	keywords:["심영기상"],	tags:["심영","야인시대"]},
+	{name:"심영어디.gif",	keywords:["심영어디"],	tags:["심영","야인시대"]},
+	{name:"심영의사.gif",	keywords:["심영의사"],	tags:["심영","야인시대"]},
+	{name:"심영의사2.gif",	keywords:["심영의사2"],	tags:["심영","야인시대"]},
+	{name:"환호.gif",	    keywords:["환호"],		tags:["환호","야인시대"]},
+	{name:"환호2.gif",	    keywords:["환호2"],		tags:["환호","야인시대"]},
+	{name:"환호3.gif",	    keywords:["환호3"],		tags:["환호","야인시대"]},
+	
+
+
+
+	
 	////////////리그 오브 레전드/////////////
 	{name:"꿀벌눈물.jpg",		    keywords:["꿀벌눈물"],	tags:["롤"]},
 	{name:"꿀벌화남.jpg",		    keywords:["꿀벌화남"],	tags:["롤"]},
 	{name:"꿀벌행복.png",		    keywords:["꿀벌행복"],	tags:["롤"]},
-	{name:"카이사.png",		    keywords:["카이사"],	tags:["롤"]},
+	{name:"카이사.png",		        keywords:["카이사"],		tags:["롤"]},
 	{name:"가렌행복.png",		    keywords:["가렌행복"],	tags:["롤"]},
 	{name:"가렌박력.gif",		    keywords:["가렌박력"],	tags:["롤"]},
-	{name:"티모.png",		   	    keywords:["티모"],	tags:["롤"]},
+	{name:"티모.png",		   	    keywords:["티모"],		tags:["롤"]},
 	
 	
 	
 	
 	////냥이콘/////////
 	{name:"냥이눈물.gif",		    keywords:["냥이눈물"],		tags:["냥이"]},
-	{name:"냥이눈물2.gif",		    keywords:["냥이눈물2"],	tags:["냥이"]},
+	{name:"냥이눈물2.gif",		    keywords:["냥이눈물2"],	    tags:["냥이"]},
 	{name:"냥이돼지.gif",		    keywords:["냥이돼지"],		tags:["냥이"]},
 	{name:"냥이억울.gif",		    keywords:["냥이억울"],		tags:["냥이"]},
 	
@@ -97,6 +124,22 @@ dcConsData = [
 	{name:"이풍당당.gif",		keywords:["이풍당당"],	tags:["당당"]},
 	{name:"이풍당당2.gif",		keywords:["이풍당당2"],	tags:["당당"]},
 
+	
+	//호랑이/////////
+	
+	{name:"원순1.png",	    keywords:["원순1"],	tags:["박원순"]},
+	{name:"원순2.png",	    keywords:["원순2"],	tags:["박원순"]},
+	{name:"원순3.png",	    keywords:["원순3"],	tags:["박원순"]},
+	{name:"원순4.png",	    keywords:["원순4"],	tags:["박원순"]},
+	{name:"원순5.png",	    keywords:["원순5"],	tags:["박원순"]},
+	{name:"원순6.png",	    keywords:["원순6"],	tags:["박원순"]},
+	{name:"원순7.png",	    keywords:["원순7"],	tags:["박원순"]},
+	
+	
+	
+	
+	
+	
 	//볼트보이//
 	{name:"볼트게이.png",		keywords:["볼트게이"],	tags:["볼트보이"]},
 	{name:"볼트딸딸.png",		keywords:["볼트딸딸"],	tags:["볼트보이"]},
@@ -110,7 +153,7 @@ dcConsData = [
 	
 	//퓨디파이//
 	{name:"어케이겼노.gif",		keywords:["어케이겼노"],	tags:["퓨디파이"]},
-	{name:"어케했노.gif",		keywords:["어케했노"],	    tags:["퓨디파이"]},
+	{name:"어케했노.gif",		keywords:["어케했노"],   tags:["퓨디파이"]},
 	
 	
 	
@@ -134,23 +177,52 @@ dcConsData = [
     {name:"페페기대.png",    keywords:["페페기대"],	tags:["페페"]},	
 	{name:"페페놀람.png",    keywords:["페페놀람"],	tags:["페페"]},	
 	{name:"페페따봉.png",    keywords:["페페따봉"],	tags:["페페"]},	
-	{name:"페페물음표.png",   keywords:["페페물음표"],	tags:["페페"]},	
+	{name:"페페물음표.png",  keywords:["페페물음표"],	tags:["페페"]},	
 	{name:"페페우울.png",    keywords:["페페우울"],	tags:["페페"]},	
 	{name:"페페초딩.png",    keywords:["페페초딩"],	tags:["페페"]},	
-	{name:"페페헉.png",     keywords:["페페헉"],		tags:["페페"]},	
+	{name:"페페헉.png",      keywords:["페페헉"],		tags:["페페"]},	
+	{name:"페페주먹.png",    keywords:["페페주먹"],	tags:["페페"]},	
 	
 	
+	///스폰지밥콘//
+	{name:"뚱이무한.gif",     keywords:["뚱이무한"],		tags:["스폰지밥"]},	
+	{name:"뚱이사랑.gif",     keywords:["뚱이사랑"],		tags:["스폰지밥"]},	
+	{name:"뚱이휴식.gif",     keywords:["뚱이휴식"],		tags:["스폰지밥"]},	
+	{name:"스폰덜덜.gif",     keywords:["스폰덜덜"],		tags:["스폰지밥"]},	
+	{name:"스폰만세.gif",     keywords:["스폰만세"],		tags:["스폰지밥"]},	
+	{name:"스폰웃음.gif",     keywords:["스폰웃음"],		tags:["스폰지밥"]},	
+	{name:"스폰헉헉.gif",     keywords:["스폰헉헉"],		tags:["스폰지밥"]},	
+	{name:"스폰현피.gif",     keywords:["스폰현피"],		tags:["스폰지밥"]},	
+	{name:"스폰활활.gif",     keywords:["스폰활할"],		tags:["스폰지밥"]},	
+	{name:"스폰사랑.gif",     keywords:["스폰사랑"],		tags:["스폰지밥"]},	
+	{name:"징징분노.gif",     keywords:["징징분노"],		tags:["스폰지밥"]},	
+	{name:"징징이.gif",       keywords:["징징이"],		tags:["스폰지밥"]},	
+	{name:"징징한숨.gif",     keywords:["징징한숨"],		tags:["스폰지밥"]},	
 	
-
+    //타짜콘//
+	{name:"타짜갈때.gif",      keywords:["타짜갈때"],			tags:["타짜"]},	
+	{name:"타짜따라란.gif",    keywords:["타짜따라란"],		tags:["타짜"]},	
+	{name:"타짜묻고.gif",      keywords:["타짜묻고"],			tags:["타짜"]},	
+	{name:"타짜왜이러.gif",    keywords:["타짜왜이러"],		tags:["타짜"]},	
+	{name:"타짜충격.gif",      keywords:["타짜충격"],			tags:["타짜"]},	
+	
+	///참피//
+	{name:"참피런.gif",      keywords:["참피런"],			tags:["참피"]},	
+	{name:"참피런2.gif",     keywords:["참피런2"],		tags:["참피"]},	
+	{name:"참피엉덩.gif",    keywords:["참피엉덩"],		tags:["참피"]},	
+	{name:"참피그만.gif",    keywords:["참피그만"],		tags:["참피"]},	
+	
+	
 	
 	
 	
 	//기타 잡짤////
 	{name:"에디와우.gif",		keywords:["에디와우"],	tags:["와우"]},
-    {name:"주인님.png",		keywords:["주인님"],	tags:["자살"]},
+    {name:"주인님.png",			keywords:["주인님"],		tags:["자살"]},
     {name:"겉바속촉.gif", 	    keywords:["겉바속촉"],	tags:["와우", "헬스크림"]},
-	{name:"흠.png", 	  	    keywords:["흠"],   	tags:["페페"]},
-	{name:"버그.gif", 	  	keywords:["버그"],   	tags:["버그"]},
+	{name:"흠.png", 	  	    keywords:["흠"],   		tags:["페페"]},
+	{name:"버그.gif", 	  		keywords:["버그"],   	tags:["버그"]},
+	{name:"민트초코.jpg", 	  	keywords:["민트초코"], 	tags:["민트초코"]},
     
 	
 	
