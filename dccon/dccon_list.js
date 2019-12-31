@@ -8,10 +8,11 @@ dcConsData = [
 	
 	//고초콘//
 	
-	{name:"고초분노.png",   	keywords:["고초분노"],	tags:["고초콘"]},
+	{name:"고초분노.png",   	keywords:["고초분노"],		tags:["고초콘"]},
 	{name:"고초분노2.gif",   	keywords:["고초분노2"],	tags:["고초콘"]},
-	{name:"고초생각.gif",   	keywords:["고초안녕"],	tags:["고초콘"]},
-	{name:"고초어떡.gif",   	keywords:["고초어떡"],	tags:["고초콘"]},
+	{name:"고초생각.gif",   	keywords:["고초생각"],		tags:["고초콘"]},
+	{name:"고초안녕.gif",   	keywords:["고초안녕"],		tags:["고초콘"]},
+	{name:"고초어떡.gif",   	keywords:["고초어떡"],		tags:["고초콘"]},
 	
 	
 	
@@ -69,10 +70,10 @@ dcConsData = [
 	
 	
 	////냥이콘/////////
-	{name:"냥이눈물.gif",		    keywords:["냥이눈물"],	tags:["냥이"]},
+	{name:"냥이눈물.gif",		    keywords:["냥이눈물"],		tags:["냥이"]},
 	{name:"냥이눈물2.gif",		    keywords:["냥이눈물2"],	tags:["냥이"]},
-	{name:"냥이돼지.gif",		    keywords:["냥이돼지"],	tags:["냥이"]},
-	{name:"냥이억울.gif",		    keywords:["냥이억울"],	tags:["냥이"]},
+	{name:"냥이돼지.gif",		    keywords:["냥이돼지"],		tags:["냥이"]},
+	{name:"냥이억울.gif",		    keywords:["냥이억울"],		tags:["냥이"]},
 	
     ////댕댕콘/////////
 	{name:"댕댕찡긋.gif",		    keywords:["댕댕찡긋"],	tags:["댕댕콘"]},
@@ -133,10 +134,10 @@ dcConsData = [
     {name:"페페기대.png",    keywords:["페페기대"],	tags:["페페"]},	
 	{name:"페페놀람.png",    keywords:["페페놀람"],	tags:["페페"]},	
 	{name:"페페따봉.png",    keywords:["페페따봉"],	tags:["페페"]},	
-	{name:"페페물음표.png",    keywords:["페페물음표"],	tags:["페페"]},	
+	{name:"페페물음표.png",   keywords:["페페물음표"],	tags:["페페"]},	
 	{name:"페페우울.png",    keywords:["페페우울"],	tags:["페페"]},	
 	{name:"페페초딩.png",    keywords:["페페초딩"],	tags:["페페"]},	
-	{name:"페페헉.png",    keywords:["페페헉"],	tags:["페페"]},	
+	{name:"페페헉.png",     keywords:["페페헉"],		tags:["페페"]},	
 	
 	
 	
@@ -149,7 +150,7 @@ dcConsData = [
     {name:"주인님.png",		keywords:["주인님"],	tags:["자살"]},
     {name:"겉바속촉.gif", 	    keywords:["겉바속촉"],	tags:["와우", "헬스크림"]},
 	{name:"흠.png", 	  	    keywords:["흠"],   	tags:["페페"]},
-	{name:"~버그.gif", 	  	keywords:["버그"],   	tags:["버그"]},
+	{name:"버그.gif", 	  	keywords:["버그"],   	tags:["버그"]},
     
 	
 	
