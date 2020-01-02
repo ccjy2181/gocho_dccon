@@ -14,7 +14,7 @@ dcConsData = [
 	{name:"고초안녕.gif",   	keywords:["고초안녕"],		tags:["고초콘"]},
 	{name:"고초어떡.gif",   	keywords:["고초어떡"],		tags:["고초콘"]},
 	{name:"고초덩실.gif",   	keywords:["고초덩실"],		tags:["고초콘"]},
-	{name:"고초멍.gif",   	keywords:["고초멍"],		tags:["고초콘"]},
+	{name:"고초멍.gif",   	keywords:["고초멍"],			tags:["고초콘"]},
 	{name:"고초샷건.gif",   	keywords:["고초샷건"],		tags:["고초콘"]},
 	{name:"고초안녕2.gif",   keywords:["고초안녕2"],		tags:["고초콘"]},
 	{name:"고초안녕3.gif",   keywords:["고초안녕3"],		tags:["고초콘"]},
@@ -41,8 +41,8 @@ dcConsData = [
 	{name:"우리핵박수2.gif",		keywords:["우리핵박수2"],	tags:["북한", "김정은"]},
 	{name:"우리핵박수3.gif",		keywords:["우리핵박수3"],	tags:["북한", "김정은"]},
 	{name:"우리핵빵야.gif",		keywords:["우리핵빵야"],	tags:["북한", "김정은"]},
-	{name:"우리핵쌍안경.gif",		keywords:["우리핵쌍안경"],	tags:["북한", "김정은"]},
-	{name:"우리핵아닌데.gif",		keywords:["우리핵아닌데"],	tags:["북한", "김정은"]},
+	{name:"우리핵쌍안경.gif",		keywords:["우리핵쌍안경"],tags:["북한", "김정은"]},
+	{name:"우리핵아닌데.gif",		keywords:["우리핵아닌데"],tags:["북한", "김정은"]},
 	{name:"우리핵안녕.gif",	    keywords:["우리핵안녕"],	tags:["북한", "김정은"]},
 	{name:"우리핵투정.gif",   	keywords:["우리핵투정"],	tags:["북한", "김정은"]},
 	
@@ -102,7 +102,7 @@ dcConsData = [
 	
 	//너굴콘//
 	{name:"너굴띠용.png",   	keywords:["너굴띠용"],	tags:["너굴콘"]},
-	{name:"너굴맨.png",   	keywords:["너굴맨"],	tags:["너굴콘"]},
+	{name:"너굴맨.png",   	keywords:["너굴맨"],		tags:["너굴콘"]},
 	{name:"너굴맨2.jpg",   	keywords:["너굴맨2"],	tags:["너굴콘"]},
 	{name:"너굴메롱.png",   	keywords:["너굴메롱"],	tags:["너굴콘"]},
 	{name:"너굴진정.png",   	keywords:["너굴진정"],	tags:["너굴콘"]},
@@ -119,10 +119,10 @@ dcConsData = [
 	
 	//마크콘//
 	{name:"스켈레톤.png",   	keywords:["스켈레톤"],	tags:["마크"]},
-	{name:"스티브.png",   	keywords:["스티브"],	tags:["마크"]},
-	{name:"알렉스.png",   	keywords:["알렉스"],	tags:["마크"]},
-	{name:"좀비.png",    	keywords:["좀비"],	tags:["마크"]},
-    {name:"좀비.png",    	keywords:["좀비"],	tags:["마크"]},
+	{name:"스티브.png",   	keywords:["스티브"],		tags:["마크"]},
+	{name:"알렉스.png",   	keywords:["알렉스"],		tags:["마크"]},
+	{name:"좀비.png",    	keywords:["좀비"],		tags:["마크"]},
+    {name:"좀비.png",    	keywords:["좀비"],		tags:["마크"]},
 
 	
 	
