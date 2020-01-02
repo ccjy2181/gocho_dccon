@@ -19,8 +19,14 @@ dcConsData = [
 	{name:"고초안녕2.gif",   keywords:["고초안녕2"],		tags:["고초콘"]},
 	{name:"고초안녕3.gif",   keywords:["고초안녕3"],		tags:["고초콘"]},
 	{name:"고초잘한다.gif",  	keywords:["고초잘한다"],		tags:["고초콘"]},
+	
+	{name:"고초왼쪽.gif",    keywords:["고초왼쪽"], 		tags:["고초콘"]},
+	{name:"고초오른쪽.gif",  keywords:["고초오른쪽"], 		tags:["고초콘"]},
+	
+	
+	
+	
 	{name:"고초기타.gif",   	keywords:["고초기타"], 		tags:["고초콘"]},
-
 	{name:"고초기타2.gif",   keywords:["고초기타2"], 		tags:["고초콘"]},
 	{name:"고초기타3.gif",   keywords:["고초기타3"], 		tags:["고초콘"]},
 	{name:"고초기타4.gif",   keywords:["고초기타4"], 		tags:["고초콘"]},
@@ -75,7 +81,7 @@ dcConsData = [
 	
 	
 	//WWE//
-	{name:"맥절정.gif",		keywords:["맥절정"],	tags:["wwe"]},
+	{name:"맥절정.gif",		keywords:["맥절정"],		tags:["wwe"]},
 	
 	
 	
@@ -157,7 +163,7 @@ dcConsData = [
 	
 	//호랑이/////////
 	
-	{name:"호랑이.gif",	    keywords:["호랑이"],	tags:["호랑이"]},
+	{name:"호랑이.gif",	    keywords:["호랑이"],		tags:["호랑이"]},
 	{name:"호랑이2.gif",	    keywords:["호랑이2"],	tags:["호랑이"]},
 		
 	
@@ -270,6 +276,17 @@ dcConsData = [
 	{name:"버그.gif", 	  		keywords:["버그"],   	tags:["버그"]},
 	{name:"민트초코.jpg", 	  	keywords:["민트초코"], 	tags:["민트초코"]},
     
+	
+	{name:"1점.png",			keywords:["1점"],		tags:["점수"]},
+	{name:"2점.png",			keywords:["2점"],		tags:["점수"]},
+	{name:"3점.png",			keywords:["3점"],		tags:["점수"]},
+	{name:"4점.png",			keywords:["4점"],		tags:["점수"]},
+	{name:"5점.png",			keywords:["5점"],		tags:["점수"]},
+	{name:"6점.png",			keywords:["6점"],		tags:["점수"]},
+	{name:"7점.png",			keywords:["7점"],		tags:["점수"]},
+	{name:"8점.png",			keywords:["8점"],		tags:["점수"]},
+	{name:"9점.png",			keywords:["9점"],		tags:["점수"]},
+	{name:"10점.png",			keywords:["10점"],		tags:["점수"]},
 	
 	
 	
