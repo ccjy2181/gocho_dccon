@@ -1,11 +1,11 @@
 {
 "dccons" :[
  
-    {"name":"고초분노.png",		"keywords":["고초분노"],	"tags":["고초콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초분노.png"},
+    {"name":"고초분노.png",		"keywords":["고초분노"],		"tags":["고초콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초분노.png"},
 	{"name":"고초분노2.gif",		"keywords":["고초분노2"],	"tags":["고초콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초분노2.gif"},
-	{"name":"고초생각.gif",		"keywords":["고초생각"],	"tags":["고초콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초생각.gif"},
-	{"name":"고초안녕.gif",		"keywords":["고초안녕"],	"tags":["고초콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초안녕.gif"},
-	{"name":"고초어떡.gif",		"keywords":["고초어떡"],	"tags":["고초콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초어떡.gif"},
+	{"name":"고초생각.gif",		"keywords":["고초생각"],		"tags":["고초콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초생각.gif"},
+	{"name":"고초안녕.gif",		"keywords":["고초안녕"],		"tags":["고초콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초안녕.gif"},
+	{"name":"고초어떡.gif",		"keywords":["고초어떡"],		"tags":["고초콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초어떡.gif"},
 	  
 	{"name":"고초덩실.gif",   	"keywords":["고초덩실"],		"tags":["고초콘"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초덩실.gif"},
 	{"name":"고초멍.gif",   	"keywords":["고초멍"],		    "tags":["고초콘"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초멍.gif"},
@@ -17,16 +17,16 @@
 	
 	
 	
-	{"name":"고초기타2.gif",   "keywords":["고초기타2"], 		"tags":["고초콘"]}, "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초기타2.gif" },
-	{"name":"고초기타3.gif",   "keywords":["고초기타3"], 		"tags":["고초콘"]}, "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초기타3.gif" },
-	{"name":"고초기타4.gif",   "keywords":["고초기타4"], 		"tags":["고초콘"]}, "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초기타4.gif" },
-	{"name":"고초노노.gif",    "keywords":["고초노노"], 		"tags":["고초콘"]}, "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초노노.gif" },
-	{"name":"고초노래.gif",    "keywords":["고초노래"], 		"tags":["고초콘"]}, "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초노래.gif" },
-	{"name":"고초눈물.gif",    "keywords":["고초눈물"], 		"tags":["고초콘"]}, "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초눈물.gif" },
-	{"name":"고초락커.gif",    "keywords":["고초락커"], 		"tags":["고초콘"]}, "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초락커.gif" },
-	{"name":"고초샷건.gif",    "keywords":["고초샷건"], 		"tags":["고초콘"]}, "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초샷건.gif" },
-	{"name":"고초오키.gif",    "keywords":["고초오키"], 		"tags":["고초콘"]}, "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초오키.gif" },
-	{"name":"고초그건쫌.gif",  "keywords":["고초그건쫌"], 		"tags":["고초콘"]}, "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초그건쫌.gif" },
+	{"name":"고초기타2.gif",   "keywords":["고초기타2"], 		"tags":["고초콘"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초기타2.gif" },
+	{"name":"고초기타3.gif",   "keywords":["고초기타3"], 		"tags":["고초콘"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초기타3.gif" },
+	{"name":"고초기타4.gif",   "keywords":["고초기타4"], 		"tags":["고초콘"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초기타4.gif" },
+	{"name":"고초노노.gif",    "keywords":["고초노노"], 		"tags":["고초콘"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초노노.gif" },
+	{"name":"고초노래.gif",    "keywords":["고초노래"], 		"tags":["고초콘"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초노래.gif" },
+	{"name":"고초눈물.gif",    "keywords":["고초눈물"], 		"tags":["고초콘"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초눈물.gif" },
+	{"name":"고초락커.gif",    "keywords":["고초락커"], 		"tags":["고초콘"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초락커.gif" },
+	{"name":"고초샷건.gif",    "keywords":["고초샷건"], 		"tags":["고초콘"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초샷건.gif" },
+	{"name":"고초오키.gif",    "keywords":["고초오키"], 		"tags":["고초콘"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초오키.gif" },
+	{"name":"고초그건쫌.gif",  "keywords":["고초그건쫌"], 		"tags":["고초콘"],"path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/고초그건쫌.gif" },
 	
 	
 	
@@ -39,11 +39,11 @@
 	
 	
 	{"name":"우리핵박수.gif",		"keywords":["우리핵박수"],	"tags":["북한", "김정은"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/우리핵박수.gif"},
-	{"name":"우리핵박수2.gif",		"keywords":["우리핵박수2"],	"tags":["북한", "김정은"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/우리핵박수2.gif"},
-	{"name":"우리핵박수3.gif",		"keywords":["우리핵박수3"],	"tags":["북한", "김정은"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/우리핵박수3.gif"},
+	{"name":"우리핵박수2.gif",	"keywords":["우리핵박수2"],	"tags":["북한", "김정은"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/우리핵박수2.gif"},
+	{"name":"우리핵박수3.gif",	"keywords":["우리핵박수3"],	"tags":["북한", "김정은"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/우리핵박수3.gif"},
 	{"name":"우리핵빵야.gif",		"keywords":["우리핵빵야"],	"tags":["북한", "김정은"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/우리핵빵야.gif"},
-	{"name":"우리핵쌍안경.gif",		"keywords":["우리핵쌍안경"],	"tags":["북한", "김정은"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/우리핵쌍안경.gif"},
-	{"name":"우리핵아닌데.gif",		"keywords":["우리핵아닌데"],	"tags":["북한", "김정은"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/우리핵아닌데.gif"},
+	{"name":"우리핵쌍안경.gif",	"keywords":["우리핵쌍안경"],	"tags":["북한", "김정은"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/우리핵쌍안경.gif"},
+	{"name":"우리핵아닌데.gif",	"keywords":["우리핵아닌데"],	"tags":["북한", "김정은"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/우리핵아닌데.gif"},
 	{"name":"우리핵안녕.gif",	    "keywords":["우리핵안녕"],	"tags":["북한", "김정은"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/우리핵안녕.gif"},
 	{"name":"우리핵투정.gif",   	"keywords":["우리핵투정"],	"tags":["북한", "김정은"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/우리핵투정.gif"},
 
@@ -55,7 +55,7 @@
 	
 	
 
-	{"name":"굳건이.jpg",		"keywords":["굳건이"],	"tags":["군대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/굳건이.jpg"},
+	{"name":"굳건이.jpg",	"keywords":["굳건이"],	"tags":["군대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/굳건이.jpg"},
 	
 
 	{"name":"눈물한조.png",	"keywords":["눈물한조"],	"tags":["오버워치"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/눈물한조.png"},
@@ -63,19 +63,18 @@
 	
 	
 
-	{"name":"럼프따봉.png",		"keywords":["럼프따봉"],	"tags":["트럼프"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/럼프따봉.png"},
-	{"name":"리듬스탈.gif",		"keywords":["리듬스탈"],	"tags":["스탈린"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/리듬스탈.gif"},
+	{"name":"럼프따봉.png",	"keywords":["럼프따봉"],	"tags":["트럼프"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/럼프따봉.png"},
+	{"name":"리듬스탈.gif",	"keywords":["리듬스탈"],	"tags":["스탈린"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/리듬스탈.gif"},
 
 	
 	
 
-	{"name":"맥절정.gif",		"keywords":["맥절정"],	"tags":["wwe"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/맥절정.gif"},
+	{"name":"맥절정.gif",	"keywords":["맥절정"],	"tags":["wwe"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/맥절정.gif"},
 	
 	
 
-	{"name":"오케이땡큐.png",		"keywords":["오케이땡큐"],	"tags":["김두한","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/오케이땡큐.png"},
-    {"name":"4딸라.png",			"keywords":["4딸라"],		"tags":["김두한","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/4딸라.png"},
-	
+	{"name":"오케이땡큐.png",	"keywords":["오케이땡큐"],	"tags":["김두한","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/오케이땡큐.png"},
+    {"name":"4딸라.png",		"keywords":["4딸라"],		"tags":["김두한","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/4딸라.png"},
 	{"name":"심영1.gif",		"keywords":["심영1"],		"tags":["심영","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/심영1.gif"},
 	{"name":"심영2.gif",		"keywords":["심영2"],		"tags":["심영","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/심영2.gif"},
 	{"name":"심영3.gif",		"keywords":["심영3"],		"tags":["심영","야인시대"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/심영3.gif"},
@@ -105,22 +104,22 @@
 	
 	
 	
-	{"name":"너굴띠용.png",   	"keywords":["너굴띠용"],	"tags":["너굴콘"]}, "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/너굴띠용.png"}, 
-	{"name":"너굴맨.png",    	"keywords":["너굴맨"],	"tags":["너굴콘"]}, "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/너굴맨.png"},  
-	{"name":"너굴맨2.jpg",   	"keywords":["너굴맨2"],	"tags":["너굴콘"]}, "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/너굴맨2.jpg"}, 
-	{"name":"너굴메롱.png",   	"keywords":["너굴메롱"],	"tags":["너굴콘"]}, "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/너굴메롱.png"}, 
-	{"name":"너굴진정.png",   	"keywords":["너굴진정"],	"tags":["너굴콘"]}, "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/너굴진정.png"}, 
-	{"name":"너굴충격.png",   	"keywords":["너굴충격"],	"tags":["너굴콘"]}, "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/너굴충격.png"}, 
-	{"name":"너굴포기.png",   	"keywords":["너굴포기"],	"tags":["너굴콘"]}, "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/너굴포기.png"}, 
+	{"name":"너굴띠용.png",   	"keywords":["너굴띠용"],	"tags":["너굴콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/너굴띠용.png"}, 
+	{"name":"너굴맨.png",    	"keywords":["너굴맨"],	"tags":["너굴콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/너굴맨.png"},  
+	{"name":"너굴맨2.jpg",   	"keywords":["너굴맨2"],	"tags":["너굴콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/너굴맨2.jpg"}, 
+	{"name":"너굴메롱.png",   	"keywords":["너굴메롱"],	"tags":["너굴콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/너굴메롱.png"}, 
+	{"name":"너굴진정.png",   	"keywords":["너굴진정"],	"tags":["너굴콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/너굴진정.png"}, 
+	{"name":"너굴충격.png",   	"keywords":["너굴충격"],	"tags":["너굴콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/너굴충격.png"}, 
+	{"name":"너굴포기.png",   	"keywords":["너굴포기"],	"tags":["너굴콘"], "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/너굴포기.png"}, 
 	
-	{"name":"샌즈.png",   	 	"keywords":["샌즈"],		"tags":["샌즈"]},   "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/샌즈.png"},   
-	{"name":"샌즈2.gif",   		"keywords":["샌즈2"],	"tags":["샌즈"]},   "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/샌즈2.gif"},   
+	{"name":"샌즈.png",   	 	"keywords":["샌즈"],		"tags":["샌즈"],   "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/샌즈.png"},   
+	{"name":"샌즈2.gif",   		"keywords":["샌즈2"],	"tags":["샌즈"],   "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/샌즈2.gif"},   
 	
-	{"name":"스켈레톤.png",   	"keywords":["스켈레톤"],	"tags":["마크"]},   "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/스켈레톤.png"}, 
-	{"name":"스티브.png",  	 	"keywords":["스티브"],	"tags":["마크"]},   "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/스티브.png"},  
-	{"name":"알렉스.png",   		"keywords":["알렉스"],	"tags":["마크"]},   "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/알렉스.png"},  
-	{"name":"좀비.png",    		"keywords":["좀비"],		"tags":["마크"]},   "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/좀비.png"},    
-    {"name":"좀비.png",    		"keywords":["좀비"],		"tags":["마크"]},   "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/좀비.png"},    
+	{"name":"스켈레톤.png",   	"keywords":["스켈레톤"],	"tags":["마크"],   "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/스켈레톤.png"}, 
+	{"name":"스티브.png",  	 	"keywords":["스티브"],	"tags":["마크"],   "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/스티브.png"},  
+	{"name":"알렉스.png",   		"keywords":["알렉스"],	"tags":["마크"],   "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/알렉스.png"},  
+	{"name":"좀비.png",    		"keywords":["좀비"],		"tags":["마크"],   "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/좀비.png"},    
+    {"name":"좀비.png",    		"keywords":["좀비"],		"tags":["마크"],   "path" : "https://ccjy2181.github.io/gocho_dccon/dccon/images/좀비.png"},    
 
 	
 	
