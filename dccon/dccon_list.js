@@ -37,7 +37,7 @@ dcConsData = [
 	{name:"고초샷건.gif",    keywords:["고초샷건"], 		tags:["고초콘"]},
 	{name:"고초오키.gif",    keywords:["고초오키"], 		tags:["고초콘"]},
 	{name:"고초그건쫌.gif",  keywords:["고초그건쫌"], 		tags:["고초콘"]},
-	
+	{name:"고초이건쫌.gif",  keywords:["고초그건쫌"], 		tags:["고초콘"]}, //
 		
 	
 	
@@ -185,7 +185,7 @@ dcConsData = [
 	{name:"원순4.png",	    keywords:["원순4"],	tags:["박원순"]},
 	{name:"원순5.png",	    keywords:["원순5"],	tags:["박원순"]},
 	{name:"원순6.png",	    keywords:["원순6"],	tags:["박원순"]},
-	{name:"원순7.png",	    keywords:["원순7"],	tags:["박원순"]},
+	{name:"원순7.jpg",	    keywords:["원순7"],	tags:["박원순"]},
 	
 	
 	
@@ -265,6 +265,32 @@ dcConsData = [
 	{name:"참피그만.gif",    keywords:["참피그만"],		tags:["참피"]},	
 	
 	
+	//리사수//
+	{name:"리사수1.gif",    keywords:["리사수1"],		tags:["리사수"]},	
+	{name:"리사수2.gif",    keywords:["리사수2"],		tags:["리사수"]},	
+	
+	
+	
+	//와//	
+	{name:"와.gif",    	keywords:["와"],		tags:["와"]},	
+	{name:"와2.gif",    keywords:["와2"],		tags:["와"]},	
+	{name:"와3.gif",    keywords:["와3"],		tags:["와"]},	
+	{name:"와4.gif",    keywords:["와4"],		tags:["와"]},	
+	{name:"와5.gif",    keywords:["와5"],		tags:["와"]},	
+	
+	
+	
+	//해충//
+	{name:"호우.gif",   		 keywords:["호우"],		tags:["해외축구"]},	
+	{name:"호우2.gif",   	 keywords:["호우2"],		tags:["해외축구"]},	
+	{name:"매버럭.png",        keywords:["매버럭"],	tags:["해외축구"]},
+	{name:"매구토.png",        keywords:["매구토"],	tags:["해외축구"]},	
+	
+	//혼밥//
+	{name:"혼밥찐.gif",   	 keywords:["혼밥찐"],		tags:["혼밥콘"]},	
+	{name:"뭐라고.gif",   	 keywords:["뭐라고"],		tags:["혼밥콘"]},	
+	
+	
 	
 	
 	
@@ -274,6 +300,7 @@ dcConsData = [
     {name:"겉바속촉.gif", 	    keywords:["겉바속촉"],	tags:["와우", "헬스크림"]},
 	{name:"흠.png", 	  	    keywords:["흠"],   		tags:["페페"]},
 	{name:"버그.gif", 	  		keywords:["버그"],   	tags:["버그"]},
+	{name:"던질까말까.gif", 	  	keywords:["던질까말까"], 	tags:["던질까말까"]},  //
 	{name:"민트초코.jpg", 	  	keywords:["민트초코"], 	tags:["민트초코"]},
     
 	
