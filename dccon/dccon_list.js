@@ -38,6 +38,7 @@ dcConsData = [
 	{name:"고초오키.gif",    keywords:["고초오키"], 		tags:["고초콘"]},
 	{name:"고초그건쫌.gif",  keywords:["고초그건쫌"], 		tags:["고초콘"]},
 	{name:"고초이건쫌.gif",  keywords:["고초이건쫌"], 		tags:["고초콘"]},
+	
 		
 	
 	
@@ -283,8 +284,8 @@ dcConsData = [
 	//해충//
 	{name:"호우.gif",   		 keywords:["호우"],		tags:["해외축구"]},	
 	{name:"호우2.gif",   	 keywords:["호우2"],		tags:["해외축구"]},	
-	{name:"매버럭.png",        keywords:["매버럭"],	tags:["해외축구"]},
-	{name:"매구토.png",        keywords:["매구토"],	tags:["해외축구"]},	
+	{name:"메버럭.png",        keywords:["메버럭"],	tags:["해외축구"]},
+	{name:"메구토.png",        keywords:["메구토"],	tags:["해외축구"]},	
 	
 	//혼밥//
 	{name:"혼밥찐.gif",   	 keywords:["혼밥찐"],		tags:["혼밥콘"]},	
