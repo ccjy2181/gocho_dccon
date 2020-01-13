@@ -185,7 +185,7 @@ dcConsData = [
 	{name:"원순4.png",	    keywords:["원순4"],	tags:["박원순"]},
 	{name:"원순5.png",	    keywords:["원순5"],	tags:["박원순"]},
 	{name:"원순6.png",	    keywords:["원순6"],	tags:["박원순"]},
-	{name:"원순7.jpg",	    keywords:["원순7"],	tags:["박원순"]},
+	{name:"원순7.png",	    keywords:["원순7"],	tags:["박원순"]},
 	
 	
 	
