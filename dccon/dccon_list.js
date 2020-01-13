@@ -37,7 +37,7 @@ dcConsData = [
 	{name:"고초샷건.gif",    keywords:["고초샷건"], 		tags:["고초콘"]},
 	{name:"고초오키.gif",    keywords:["고초오키"], 		tags:["고초콘"]},
 	{name:"고초그건쫌.gif",  keywords:["고초그건쫌"], 		tags:["고초콘"]},
-	{name:"고초이건쫌.gif",  keywords:["고초그건쫌"], 		tags:["고초콘"]}, //
+	{name:"고초이건쫌.gif",  keywords:["고초이건쫌"], 		tags:["고초콘"]},
 		
 	
 	
