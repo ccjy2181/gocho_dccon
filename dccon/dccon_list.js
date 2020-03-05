@@ -14,11 +14,15 @@ dcConsData = [
 	{name:"고초안녕.gif",   	keywords:["고초안녕"],		tags:["고초콘"]},
 	{name:"고초어떡.gif",   	keywords:["고초어떡"],		tags:["고초콘"]},
 	{name:"고초덩실.gif",   	keywords:["고초덩실"],		tags:["고초콘"]},
+	{name:"고초덩실2.gif",  	keywords:["고초덩실2"],		tags:["고초콘"]},
 	{name:"고초멍.gif",   	keywords:["고초멍"],			tags:["고초콘"]},
 	{name:"고초샷건.gif",   	keywords:["고초샷건"],		tags:["고초콘"]},
 	{name:"고초안녕2.gif",   keywords:["고초안녕2"],		tags:["고초콘"]},
 	{name:"고초안녕3.gif",   keywords:["고초안녕3"],		tags:["고초콘"]},
 	{name:"고초잘한다.gif",  	keywords:["고초잘한다"],		tags:["고초콘"]},
+	{name:"고초깜놀.gif",  	keywords:["고초깜놀"],		tags:["고초콘"]},
+	{name:"고초덜덜.gif",  	keywords:["고초덜덜"],		tags:["고초콘"]},
+	
 	
 	{name:"고초왼쪽.gif",    keywords:["고초왼쪽"], 		tags:["고초콘"]},
 	{name:"고초오른쪽.gif",  keywords:["고초오른쪽"], 		tags:["고초콘"]},
@@ -69,6 +73,11 @@ dcConsData = [
 	
 	//오버워치//
 	{name:"눈물한조.png",		keywords:["눈물한조"],	tags:["오버워치"]},
+	
+	//창렬//
+	{name:"창렬.gif",		keywords:["창렬"],	tags:["창렬콘"]},
+	{name:"창렬2.gif",	keywords:["창렬2"],	tags:["창렬콘"]},
+	
 	
 	
 	//해외정치인//
