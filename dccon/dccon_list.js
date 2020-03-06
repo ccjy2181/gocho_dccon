@@ -29,11 +29,11 @@ dcConsData = [
 	
 	
 	
-	{name:"고초박수.gif",    keywords:["고초박수"],		tags:["고초콘"]},
 	{name:"고초기타.gif",    keywords:["고초기타"], 		tags:["고초콘"]},
 	{name:"고초기타2.gif",   keywords:["고초기타2"], 		tags:["고초콘"]},
 	{name:"고초기타3.gif",   keywords:["고초기타3"], 		tags:["고초콘"]},
 	{name:"고초기타4.gif",   keywords:["고초기타4"], 		tags:["고초콘"]},
+	{name:"고초박수.gif",    keywords:["고초박수"], 		tags:["고초콘"]},
 	{name:"고초노노.gif",    keywords:["고초노노"], 		tags:["고초콘"]},
 	{name:"고초노래.gif",    keywords:["고초노래"], 		tags:["고초콘"]},
 	{name:"고초눈물.gif",    keywords:["고초눈물"], 		tags:["고초콘"]},
