@@ -29,8 +29,8 @@ dcConsData = [
 	
 	
 	
-	{name:"고초박수.gif",  	keywords:["고초박수"],		tags:["고초콘"]},
-	{name:"고초기타.gif",   	keywords:["고초기타"], 		tags:["고초콘"]},
+	{name:"고초박수.gif",    keywords:["고초박수"],		tags:["고초콘"]},
+	{name:"고초기타.gif",    keywords:["고초기타"], 		tags:["고초콘"]},
 	{name:"고초기타2.gif",   keywords:["고초기타2"], 		tags:["고초콘"]},
 	{name:"고초기타3.gif",   keywords:["고초기타3"], 		tags:["고초콘"]},
 	{name:"고초기타4.gif",   keywords:["고초기타4"], 		tags:["고초콘"]},
@@ -40,8 +40,8 @@ dcConsData = [
 	{name:"고초락커.gif",    keywords:["고초락커"], 		tags:["고초콘"]},
 	{name:"고초샷건.gif",    keywords:["고초샷건"], 		tags:["고초콘"]},
 	{name:"고초오키.gif",    keywords:["고초오키"], 		tags:["고초콘"]},
-	{name:"고초그건쫌.gif",  keywords:["고초그건쫌"], 		tags:["고초콘"]},
-	{name:"고초이건쫌.gif",  keywords:["고초이건쫌"], 		tags:["고초콘"]},
+	{name:"고초그건쫌.gif",   keywords:["고초그건쫌"], 		tags:["고초콘"]},
+	{name:"고초이건쫌.gif",   keywords:["고초이건쫌"], 		tags:["고초콘"]},
 	
 		
 	
