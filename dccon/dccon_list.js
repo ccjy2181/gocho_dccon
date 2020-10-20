@@ -203,7 +203,7 @@ dcConsData = [
 	{name:"페페초딩.png",    keywords:["페페초딩"],	tags:["페페"]},	
 	{name:"페페헉.png",      keywords:["페페헉"],		tags:["페페"]},	
 	{name:"페페주먹.png",    keywords:["페페주먹"],	tags:["페페"]},	
-	
+	 
 	
 
     //타짜콘//
@@ -261,12 +261,13 @@ dcConsData = [
 	{name:"7점.png",			keywords:["7점"],		tags:["점수"]},
 	{name:"8점.png",			keywords:["8점"],		tags:["점수"]},
 	{name:"9점.png",			keywords:["9점"],		tags:["점수"]},
-	{name:"10점.png",			keywords:["10점"],		tags:["점수"]}
+	{name:"10점.png",		keywords:["10점"],		tags:["점수"]}
 	
 	
 	
 	
-	
+	    
+		
 	
 	
 	
