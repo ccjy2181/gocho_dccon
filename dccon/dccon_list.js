@@ -275,15 +275,16 @@ dcConsData = [
 {name:"버틸수.gif",    keywords:["버틸수"],		tags:["철권"]},
 {name:"사기.gif",    keywords:["사기"],		tags:["철권"]},
 {name:"안써요.gif",    keywords:["안써요"],		tags:["철권"]},
-{name:"어이파쿰람.png",    keywords:["어이파쿰람"],		tags:["철권"]},
 {name:"어흥.gif",    keywords:["어흥"],		tags:["철권"]},
 {name:"죽창.gif",    keywords:["죽창"],		tags:["철권"]},
 {name:"진승리.gif",    keywords:["진승리"],		tags:["철권"]},
 {name:"체포.gif",    keywords:["체포"],		tags:["철권"]},
 {name:"큰그림.gif",    keywords:["큰그림"],		tags:["철권"]},
+{name:"형왔다.gif",    keywords:["형왔다"],		tags:["철권"]},
+{name:"어이파쿰람.png",    keywords:["어이파쿰람"],		tags:["철권"]},
 {name:"파쿰람선넘네.png",    keywords:["파쿰람선넘네"],		tags:["철권"]},
 {name:"파쿰람처신.png",    keywords:["파쿰람처신"],		tags:["철권"]},
-{name:"형왔다.gif",    keywords:["형왔다"],		tags:["철권"]},
+
 
 	
 	//해충//
