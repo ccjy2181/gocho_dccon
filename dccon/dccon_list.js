@@ -202,7 +202,7 @@ dcConsData = [
 	{name:"페페우울.png",    keywords:["페페우울"],	tags:["페페"]},	
 	{name:"페페초딩.png",    keywords:["페페초딩"],	tags:["페페"]},	
 	{name:"페페헉.png",      keywords:["페페헉"],		tags:["페페"]},	
-	{name:"페페주먹.png",    keywords:["페페주먹"],	tags:["페페"]},	
+	{name:"페페주먹.gif",    keywords:["페페주먹"],	tags:["페페"]},	
 	 
 	
 
