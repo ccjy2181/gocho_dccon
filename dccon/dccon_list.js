@@ -154,8 +154,14 @@ dcConsData = [
 	{name:"콩탈리스크.gif",		keywords:["콩탈리스크"],	tags:["스타크래프트"]},
 	{name:"장판파.jpg",		keywords:["장판파"],	tags:["스타크래프트"]},
 	{name:"테란일꾼.gif",		keywords:["테란일꾼"],	tags:["스타크래프트"]},
-	
-	
+	{name:"마린.gif",		keywords:["마린"],	tags:["스타크래프트"]},
+	{name:"파이어뱃.gif",		keywords:["파이어뱃"],	tags:["스타크래프트"]},
+	{name:"메딕.gif",		keywords:["메딕"],	tags:["스타크래프트"]},
+	{name:"고스트.gif",		keywords:["고스트"],	tags:["스타크래프트"]},
+	{name:"벌처.gif",		keywords:["벌처"],	tags:["스타크래프트"]},
+	{name:"스파이더마인.gif",		keywords:["스파이더마인"],	tags:["스타크래프트"]},
+	{name:"시즈탱크.gif",		keywords:["시즈탱크"],	tags:["스타크래프트"]},
+	{name:"골리앗.gif",		keywords:["골리앗"],	tags:["스타크래프트"]},
 	
 	
 	////당당콘////
