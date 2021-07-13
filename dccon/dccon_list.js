@@ -162,6 +162,11 @@ dcConsData = [
 	{name:"스파이더마인.gif",		keywords:["스파이더마인"],	tags:["스타크래프트"]},
 	{name:"시즈탱크.gif",		keywords:["시즈탱크"],	tags:["스타크래프트"]},
 	{name:"골리앗.gif",		keywords:["골리앗"],	tags:["스타크래프트"]},
+	{name:"레이스.gif",		keywords:["레이스"],	tags:["스타크래프트"]},
+	{name:"드랍쉽gif",		keywords:["드랍쉽"],	tags:["스타크래프트"]},
+	{name:"발키리.gif",		keywords:["발키리"],	tags:["스타크래프트"]},
+	{name:"배틀크루저.gif",		keywords:["배틀크루저"],	tags:["스타크래프트"]},
+	{name:"시민.gif",		keywords:["시민"],	tags:["스타크래프트"]},
 	
 	
 	////당당콘////
