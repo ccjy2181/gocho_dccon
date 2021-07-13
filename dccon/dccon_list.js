@@ -169,6 +169,25 @@ dcConsData = [
 	{name:"시민.gif",		keywords:["시민"],	tags:["스타크래프트"]},
 	
 	
+	
+	{name:"라바.gif",			keywords:["라바"],	tags:["스타크래프트"]},
+	{name:"드론.gif",			keywords:["드론"],	tags:["스타크래프트"]},
+	{name:"저글링.gif",		keywords:["저글링"],	tags:["스타크래프트"]},
+	{name:"히드라.gif",		keywords:["히드라"],	tags:["스타크래프트"]},
+	{name:"러커.gif",			keywords:["러커"],	tags:["스타크래프트"]},
+	{name:"뮤탈.gif",			keywords:["뮤탈"],	tags:["스타크래프트"]},
+	{name:"가디언.gif",		keywords:["가디언"],	tags:["스타크래프트"]},
+	{name:"브루들링.gif",		keywords:["브루들링"],	tags:["스타크래프트"]},
+	{name:"디바우러.gif",		keywords:["디바우러"],	tags:["스타크래프트"]},
+	{name:"스커지.gif",		keywords:["스커지"],	tags:["스타크래프트"]},
+	{name:"오버로드.gif",		keywords:["오버로드"],	tags:["스타크래프트"]},
+	{name:"울트라.gif",		keywords:["울트라"],	tags:["스타크래프트"]},
+	{name:"디파일러.gif",		keywords:["디파일러"],	tags:["스타크래프트"]},
+	{name:"감염된테란.gif",		keywords:["감염된테란"],	tags:["스타크래프트"]},
+	{name:"퀸.gif",			keywords:["퀸"],		tags:["스타크래프트"]},
+	
+	
+	
 	////당당콘////
 	
 	{name:"문풍당당.gif",		keywords:["문풍당당"],	tags:["당당"]},
