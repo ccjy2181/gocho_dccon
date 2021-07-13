@@ -188,6 +188,24 @@ dcConsData = [
 	
 	
 	
+	{name:"프로브.gif",		keywords:["프로브"] 	tags:["스타크래프트"]},
+	{name:"질럿.gif",			keywords:["질럿"] 	tags:["스타크래프트"]},
+	{name:"다크템플러.gif",		keywords:["다크템플러"] 	tags:["스타크래프트"]},
+	{name:"드라군.gif",		keywords:["드라군"]	tags:["스타크래프트"]},
+	{name:"리버.gif",			keywords:["리버"]		tags:["스타크래프트"]},
+	{name:"셔틀.gif",			keywords:["셔틀"]		tags:["스타크래프트"]},
+	{name:"스카웃.gif",		keywords:["스카웃"]	tags:["스타크래프트"]},
+	{name:"아비터.gif",		keywords:["아비터"]	tags:["스타크래프트"]},
+	{name:"아칸.gif",			keywords:["아칸"]		tags:["스타크래프트"]},
+	{name:"다크아칸.gif",		keywords:["다크아칸"]	tags:["스타크래프트"]},
+	{name:"옵저버.gif",		keywords:["옵저버"]	tags:["스타크래프트"]},
+	{name:"캐리어.gif",		keywords:["캐리어"]	tags:["스타크래프트"]},
+	{name:"인터셉터.gif",		keywords:["인터셉터"]	tags:["스타크래프트"]},
+	{name:"커세어.gif",		keywords:["커세어"]	tags:["스타크래프트"]},
+	{name:"하이템플러.gif",		keywords:["하이템플러"]	tags:["스타크래프트"]},
+	
+	
+	
 	////당당콘////
 	
 	{name:"문풍당당.gif",		keywords:["문풍당당"],	tags:["당당"]},
