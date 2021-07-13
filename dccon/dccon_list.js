@@ -152,23 +152,23 @@ dcConsData = [
 	
 	///스타크래프트///
 	
-	{name:"콩탈리스크.gif",		keywords:["콩탈리스크"],	tags:["스타크래프트"]},
-	{name:"장판파.gif",			keywords:["장판파"],		tags:["스타크래프트"]},
-	{name:"관광.gif",			keywords:["관광"],		tags:["스타크래프트"]},
-	{name:"도진광마린.gif",		keywords:["도진광마린"],	tags:["스타크래프트"]},
-	{name:"마인대박.gif",			keywords:["마인대박"],	tags:["스타크래프트"]},
-	{name:"마인역대박.gif",		keywords:["마인역대박"],	tags:["스타크래프트"]},
-	{name:"뮤탈컨트롤.gif",		keywords:["뮤탈컨트롤"],	tags:["스타크래프트"]},
-	{name:"버뮤다리콜.gif",		keywords:["버뮤다리콜"],	tags:["스타크래프트"]},
-	{name:"벙커링.gif",			keywords:["벙커링"],		tags:["스타크래프트"]},
-	{name:"불꽃테란.gif",			keywords:["불꽃테란"],	tags:["스타크래프트"]},
-	{name:"선기도.gif",			keywords:["선기도"],		tags:["스타크래프트"]},
-	{name:"시작하겠습니다.gif",	keywords:["시작하겠습니다"], tags:["스타크래프트"]},
-	{name:"이라샤이마세.gif",		keywords:["이라샤이마세"], tags:["스타크래프트"]},
-	{name:"이제동맥경화.gif",		keywords:["이제동맥경화"], tags:["스타크래프트"]},
-	{name:"이제동뮤탈.gif",		keywords:["이제동뮤탈"],	tags:["스타크래프트"]},
-	{name:"임요환마린.gif",		keywords:["임요환마린"],	tags:["스타크래프트"]},
-	{name:"천지스톰.gif",			keywords:["천지스톰"],	tags:["스타크래프트"]},
+	{name:"콩탈리스크.gif",		keywords:["콩탈리스크"],		tags:["스타크래프트"]},
+	{name:"장판파.gif",			keywords:["장판파"],			tags:["스타크래프트"]},
+	{name:"관광.gif",			keywords:["관광"],			tags:["스타크래프트"]},
+	{name:"도진광마린.gif",		keywords:["도진광마린"],		tags:["스타크래프트"]},
+	{name:"마인대박.gif",			keywords:["마인대박"],		tags:["스타크래프트"]},
+	{name:"마인역대박.gif",		keywords:["마인역대박"],		tags:["스타크래프트"]},
+	{name:"뮤탈컨트롤.gif",		keywords:["뮤탈컨트롤"],		tags:["스타크래프트"]},
+	{name:"버뮤다리콜.gif",		keywords:["버뮤다리콜"],		tags:["스타크래프트"]},
+	{name:"벙커링.gif",			keywords:["벙커링"],			tags:["스타크래프트"]},
+	{name:"불꽃테란.gif",			keywords:["불꽃테란"],		tags:["스타크래프트"]},
+	{name:"선기도.gif",			keywords:["선기도"],			tags:["스타크래프트"]},
+	{name:"시작하겠습니다.gif",	keywords:["시작하겠습니다"], 	tags:["스타크래프트"]},
+	{name:"이라샤이마세.gif",		keywords:["이라샤이마세"], 	tags:["스타크래프트"]},
+	{name:"이제동맥경화.gif",		keywords:["이제동맥경화"],		tags:["스타크래프트"]},
+	{name:"이제동뮤탈.gif",		keywords:["이제동뮤탈"],		tags:["스타크래프트"]},
+	{name:"임요환마린.gif",		keywords:["임요환마린"],		tags:["스타크래프트"]},
+	{name:"천지스톰.gif",			keywords:["천지스톰"],		tags:["스타크래프트"]},
 	
 	
 	
@@ -197,14 +197,14 @@ dcConsData = [
 	{name:"러커.gif",			keywords:["러커"],		tags:["스타크래프트"]},
 	{name:"뮤탈.gif",			keywords:["뮤탈"],		tags:["스타크래프트"]},
 	{name:"가디언.gif",			keywords:["가디언"],		tags:["스타크래프트"]},
-	{name:"브루들링.gif",		keywords:["브루들링"],	tags:["스타크래프트"]},
-	{name:"디바우러.gif",		keywords:["디바우러"],	tags:["스타크래프트"]},
+	{name:"브루들링.gif",			keywords:["브루들링"],	tags:["스타크래프트"]},
+	{name:"디바우러.gif",			keywords:["디바우러"],	tags:["스타크래프트"]},
 	{name:"스커지.gif",			keywords:["스커지"],		tags:["스타크래프트"]},
-	{name:"오버로드.gif",		keywords:["오버로드"],	tags:["스타크래프트"]},
+	{name:"오버로드.gif",			keywords:["오버로드"],	tags:["스타크래프트"]},
 	{name:"울트라.gif",			keywords:["울트라"],		tags:["스타크래프트"]},
-	{name:"디파일러.gif",		keywords:["디파일러"],	tags:["스타크래프트"]},
+	{name:"디파일러.gif",			keywords:["디파일러"],	tags:["스타크래프트"]},
 	{name:"감염된테란.gif",		keywords:["감염된테란"],	tags:["스타크래프트"]},
-	{name:"퀸.gif",				keywords:["퀸"],		tags:["스타크래프트"]},
+	{name:"퀸.gif",				keywords:["퀸"],			tags:["스타크래프트"]},
 	
 	
 	
@@ -217,10 +217,10 @@ dcConsData = [
 	{name:"스카웃.gif",			keywords:["스카웃"],		tags:["스타크래프트"]},
 	{name:"아비터.gif",			keywords:["아비터"],		tags:["스타크래프트"]},
 	{name:"아칸.gif",			keywords:["아칸"],		tags:["스타크래프트"]},
-	{name:"다크아칸.gif",		keywords:["다크아칸"],	tags:["스타크래프트"]},
+	{name:"다크아칸.gif",			keywords:["다크아칸"],	tags:["스타크래프트"]},
 	{name:"옵저버.gif",			keywords:["옵저버"],		tags:["스타크래프트"]},
 	{name:"캐리어.gif",			keywords:["캐리어"],		tags:["스타크래프트"]},
-	{name:"인터셉터.gif",		keywords:["인터셉터"],	tags:["스타크래프트"]},
+	{name:"인터셉터.gif",			keywords:["인터셉터"],	tags:["스타크래프트"]},
 	{name:"커세어.gif",			keywords:["커세어"],		tags:["스타크래프트"]},
 	{name:"하이템플러.gif",		keywords:["하이템플러"],	tags:["스타크래프트"]},
 	
@@ -392,7 +392,7 @@ dcConsData = [
 	{name:"7점.png",			keywords:["7점"],		tags:["점수"]},
 	{name:"8점.png",			keywords:["8점"],		tags:["점수"]},
 	{name:"9점.png",			keywords:["9점"],		tags:["점수"]},
-	{name:"10점.png",			keywords:["10점"],		tags:["점수"]}
+	{name:"10점.png",		keywords:["10점"],		tags:["점수"]}
 	
 	
 	
