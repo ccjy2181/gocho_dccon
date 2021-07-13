@@ -152,8 +152,8 @@ dcConsData = [
 	
 	///스타크래프트///
 	{name:"콩탈리스크.gif",		keywords:["콩탈리스크"],	tags:["스타크래프트"]},
-	{name:"장판파.gif",		keywords:["장판파"],	tags:["스타크래프트"]},
-	{name:"테란일꾼.gif",		keywords:["테란일꾼],	tags:["스타크래프트"]},
+	{name:"장판파.jpg",		keywords:["장판파"],	tags:["스타크래프트"]},
+	{name:"테란일꾼.gif",		keywords:["테란일꾼"],	tags:["스타크래프트"]},
 	
 	
 	
