@@ -26,7 +26,7 @@ dcConsData = [
 	{name:"고초잘한다.gif",  	keywords:["고초잘한다"],		tags:["고초콘"]},
 	{name:"고초깜놀.gif",  	keywords:["고초깜놀"],		tags:["고초콘"]},
 	{name:"고초왼쪽.gif",    keywords:["고초왼쪽"], 		tags:["고초콘"]},
-	{name:"고초오른쪽.gif", 	 keywords:["고초오른쪽"], 		tags:["고초콘"]},
+	{name:"고초오른쪽.gif", 	 keywords:["고초오른쪽"], 	tags:["고초콘"]},
 	
 	{name:"고초덜덜.gif",  	keywords:["고초덜덜"],		tags:["고초콘"]},
 	
@@ -71,7 +71,7 @@ dcConsData = [
 		
 	//창렬//
 	{name:"창렬.gif",		keywords:["창렬"],	tags:["창렬콘"]},
-	{name:"창렬2.gif",	keywords:["창렬2"],	tags:["창렬콘"]},
+	{name:"창렬2.gif",		keywords:["창렬2"],	tags:["창렬콘"]},
 		//해외정치인//
 	{name:"럼프따봉.png",		keywords:["럼프따봉"],	tags:["트럼프"]},
 	{name:"리듬스탈.gif",		keywords:["리듬스탈"],	tags:["스탈린"]},
@@ -93,12 +93,12 @@ dcConsData = [
 	{name:"심영2.gif",		keywords:["심영2"],		tags:["심영","야인시대"]},
 	{name:"심영3.gif",		keywords:["심영3"],		tags:["심영","야인시대"]},
 	{name:"심영4.gif",		keywords:["심영4"],		tags:["심영","야인시대"]},
-	{name:"심영공포.gif",	keywords:["심영공포"],	tags:["심영","야인시대"]},
-	{name:"심영관찰.gif",	keywords:["심영관찰"],	tags:["심영","야인시대"]},
+	{name:"심영공포.gif"	,	keywords:["심영공포"],	tags:["심영","야인시대"]},
+	{name:"심영관찰.gif",		keywords:["심영관찰"],	tags:["심영","야인시대"]},
 	{name:"심영관찰2.gif",	keywords:["심영관찰2"],	tags:["심영","야인시대"]},
-	{name:"심영기상.gif",	keywords:["심영기상"],	tags:["심영","야인시대"]},
-	{name:"심영어디.gif",	keywords:["심영어디"],	tags:["심영","야인시대"]},
-	{name:"심영의사.gif",	keywords:["심영의사"],	tags:["심영","야인시대"]},
+	{name:"심영기상.gif",		keywords:["심영기상"],	tags:["심영","야인시대"]},
+	{name:"심영어디.gif",		keywords:["심영어디"],	tags:["심영","야인시대"]},
+	{name:"심영의사.gif",		keywords:["심영의사"],	tags:["심영","야인시대"]},
 	{name:"심영의사2.gif",	keywords:["심영의사2"],	tags:["심영","야인시대"]},
 	{name:"환호.gif",	    keywords:["환호"],		tags:["환호","야인시대"]},
 	{name:"환호2.gif",	    keywords:["환호2"],		tags:["환호","야인시대"]},
@@ -132,7 +132,7 @@ dcConsData = [
 	
 	////냥이콘/////////
 	{name:"냥이눈물.gif",		    keywords:["냥이눈물"],		tags:["냥이"]},
-	{name:"냥이눈물2.gif",		    keywords:["냥이눈물2"],	    tags:["냥이"]},
+	{name:"냥이눈물2.gif",		keywords:["냥이눈물2"],	    tags:["냥이"]},
 	{name:"냥이돼지.gif",		    keywords:["냥이돼지"],		tags:["냥이"]},
 	{name:"냥이억울.gif",		    keywords:["냥이억울"],		tags:["냥이"]},
 	
@@ -152,23 +152,23 @@ dcConsData = [
 	
 	///스타크래프트///
 	
-	{name:"콩탈리스크.gif",		keywords:["콩탈리스크"],		tags:["스타크래프트"]},
-	{name:"장판파.gif",			keywords:["장판파"],			tags:["스타크래프트"]},
-	{name:"관광.gif",			keywords:["관광"],			tags:["스타크래프트"]},
-	{name:"도진광마린.gif",		keywords:["도진광마린"],		tags:["스타크래프트"]},
-	{name:"마인대박.gif",			keywords:["마인대박"],		tags:["스타크래프트"]},
-	{name:"마인역대박.gif",		keywords:["마인역대박"],		tags:["스타크래프트"]},
-	{name:"뮤탈컨트롤.gif",		keywords:["뮤탈컨트롤"],		tags:["스타크래프트"]},
-	{name:"버뮤다리콜.gif",		keywords:["버뮤다리콜"],		tags:["스타크래프트"]},
-	{name:"벙커링.gif",			keywords:["벙커링"],			tags:["스타크래프트"]},
-	{name:"불꽃테란.gif",			keywords:["불꽃테란"],		tags:["스타크래프트"]},
-	{name:"선기도.gif",			keywords:["선기도"],			tags:["스타크래프트"]},
-	{name:"시작하겠습니다.gif",	keywords:["시작하겠습니다"], 	tags:["스타크래프트"]},
-	{name:"이라샤이마세.gif",		keywords:["이라샤이마세"], 	tags:["스타크래프트"]},
-	{name:"이제동맥경화.gif",		keywords:["이제동맥경화"],		tags:["스타크래프트"]},
-	{name:"이제동뮤탈.gif",		keywords:["이제동뮤탈"],		tags:["스타크래프트"]},
-	{name:"임요환마린.gif",		keywords:["임요환마린"],		tags:["스타크래프트"]},
-	{name:"천지스톰.gif",			keywords:["천지스톰"],		tags:["스타크래프트"]},
+	//{name:"콩탈리스크.gif",		keywords:["콩탈리스크"],		tags:["스타크래프트"]},
+	//{name:"장판파.gif",			keywords:["장판파"],			tags:["스타크래프트"]},
+	//{name:"관광.gif",			keywords:["관광"],			tags:["스타크래프트"]},
+	//{name:"도진광마린.gif",		keywords:["도진광마린"],		tags:["스타크래프트"]},
+	//{name:"마인대박.gif",			keywords:["마인대박"],		tags:["스타크래프트"]},
+	//{name:"마인역대박.gif",		keywords:["마인역대박"],		tags:["스타크래프트"]},
+	//{name:"뮤탈컨트롤.gif",		keywords:["뮤탈컨트롤"],		tags:["스타크래프트"]},
+	//{name:"버뮤다리콜.gif",		keywords:["버뮤다리콜"],		tags:["스타크래프트"]},
+	//{name:"벙커링.gif",			keywords:["벙커링"],			tags:["스타크래프트"]},
+	//{name:"불꽃테란.gif",			keywords:["불꽃테란"],		tags:["스타크래프트"]},
+	//{name:"선기도.gif",			keywords:["선기도"],			tags:["스타크래프트"]},
+	//{name:"시작하겠습니다.gif",	keywords:["시작하겠습니다"], 	tags:["스타크래프트"]},
+	//{name:"이라샤이마세.gif",		keywords:["이라샤이마세"], 	tags:["스타크래프트"]},
+	//{name:"이제동맥경화.gif",		keywords:["이제동맥경화"],		tags:["스타크래프트"]},
+	//{name:"이제동뮤탈.gif",		keywords:["이제동뮤탈"],		tags:["스타크래프트"]},
+	//{name:"임요환마린.gif",		keywords:["임요환마린"],		tags:["스타크래프트"]},
+	//{name:"천지스톰.gif",			keywords:["천지스톰"],		tags:["스타크래프트"]},
 	
 	
 	
