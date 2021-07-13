@@ -106,7 +106,7 @@ dcConsData = [
 	{name:"이제동뮤탈.gif",		keywords:["이제동뮤탈"],		tags:["스타크래프트"]},
 	{name:"임요환마린.gif",		keywords:["임요환마린"],		tags:["스타크래프트"]},
 	{name:"천지스톰.gif",			keywords:["천지스톰"],		tags:["스타크래프트"]},
-	
+	{name:"속이뻥.gif",			keywords:["속이뻥"],			tags:["스타크래프트"]},
 	
 	
 	
