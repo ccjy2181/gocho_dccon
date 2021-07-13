@@ -152,7 +152,30 @@ dcConsData = [
 	
 	///스타크래프트///
 	{name:"콩탈리스크.gif",		keywords:["콩탈리스크"],	tags:["스타크래프트"]},
-	{name:"장판파.jpg",		keywords:["장판파"],	tags:["스타크래프트"]},
+	{name:"장판파.gif",			keywords:["장판파"],		tags:["스타크래프트"]},
+	{name:"관광.gif",			keywords:["관광"],		tags:["스타크래프트"]},
+	{name:"도진광마린.gif",		keywords:["도진광마린"],	tags:["스타크래프트"]},
+	{name:"마인대박.gif",		keywords:["마인대박"],	tags:["스타크래프트"]},
+	{name:"마인역대박.gif",		keywords:["마인역대박"],	tags:["스타크래프트"]},
+	{name:"뮤탈컨트롤.gif",		keywords:["뮤탈컨트롤"],	tags:["스타크래프트"]},
+	{name:"버뮤다리콜.gif",		keywords:["버뮤다리콜"],	tags:["스타크래프트"]},
+	{name:"벙커링.gif",			keywords:["벙커링"],		tags:["스타크래프트"]},
+	{name:"불꽃테란.gif",		keywords:["불꽃테란"],	tags:["스타크래프트"]},
+	{name:"선기도.gif",			keywords:["선기도"],		tags:["스타크래프트"]},
+	{name:"시작하겠습니다.gif",	keywords:["시작하겠습니"],tags:["스타크래프트"]},
+	{name:"이라샤이마세.gif",		keywords:["이라샤이마세"],tags:["스타크래프트"]},
+	{name:"이제동맥경화.gif",		keywords:["이제동맥경화"],tags:["스타크래프트"]},
+	{name:"이제동뮤탈.gif",		keywords:["이제동뮤탈"],	tags:["스타크래프트"]},
+	{name:"임요환마린.gif",		keywords:["임요환마린"],	tags:["스타크래프트"]},
+	{name:"장판파.gif",			keywords:["장판파"],		tags:["스타크래프트"]},
+	{name:"천지스톰.gif",		keywords:["천지스톰"],	tags:["스타크래프트"]},
+	
+	
+	
+	
+	
+	
+	
 	{name:"테란일꾼.gif",		keywords:["테란일꾼"],	tags:["스타크래프트"]},
 	{name:"마린.gif",		keywords:["마린"],	tags:["스타크래프트"]},
 	{name:"파이어뱃.gif",		keywords:["파이어뱃"],	tags:["스타크래프트"]},
@@ -285,7 +308,6 @@ dcConsData = [
 	
 	
 	//철권//
-	
 
 {name:"눈물기가스.png",	 	   keywords:["눈물기가스"],		tags:["철권"]},         
 {name:"눈물니나.png",  	   keywords:["눈물니나"],		tags:["철권"]},	
@@ -373,7 +395,7 @@ dcConsData = [
 	{name:"7점.png",			keywords:["7점"],		tags:["점수"]},
 	{name:"8점.png",			keywords:["8점"],		tags:["점수"]},
 	{name:"9점.png",			keywords:["9점"],		tags:["점수"]},
-	{name:"10점.png",		keywords:["10점"],		tags:["점수"]}
+	{name:"10점.png",			keywords:["10점"],		tags:["점수"]}
 	
 	
 	
