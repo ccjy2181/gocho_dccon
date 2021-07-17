@@ -109,6 +109,19 @@ dcConsData = [
 	{name:"속이뻥.gif",			keywords:["속이뻥"],			tags:["스타크래프트"]},
 	
 	
+	{name:"3센치드랍.gif",		keywords:["3센치드랍"],		tags:["스타크래프트"]},
+	{name:"4드론.gif",			keywords:["4드론"],			tags:["스타크래프트"]},
+	{name:"김대기.gif",			keywords:["김대기"],			tags:["스타크래프트"]},
+	{name:"망했어요.gif",			keywords:["망했어요"],		tags:["스타크래프트"]},
+	{name:"쥐쥐.gif",			keywords:["쥐쥐"],			tags:["스타크래프트"]},
+	{name:"콩간지.gif",			keywords:["콩간지"],			tags:["스타크래프트"]},
+	{name:"하드코어질럿.gif",		keywords:["하드코어질럿"],		tags:["스타크래프트"]},
+	{name:"핵.gif",				keywords:["핵"],				tags:["스타크래프트"]},
+		
+		
+		
+	
+	
 	
 	{name:"테란일꾼.gif",		keywords:["테란일꾼"],	tags:["스타크래프트"]},
 	{name:"마린.gif",		keywords:["마린"],		tags:["스타크래프트"]},
