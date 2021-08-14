@@ -87,6 +87,15 @@ dcConsData = [
 		
 	
 	
+	
+	
+	
+	///폴가이즈//
+	
+	{name:"추락사.gif",		keywords:["추락사"],		tags:["추락사"]},
+	{name:"추락사2.gif",		keywords:["추락사2"],		tags:["추락사2"]},	
+	{name:"로딩.gif",			keywords:["로딩"],		tags:["로딩"]},
+	
 	///스타크래프트///
 	
 	{name:"콩탈리스크.gif",		keywords:["콩탈리스크"],		tags:["스타크래프트"]},
